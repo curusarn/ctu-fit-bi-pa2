@@ -1,2 +1,4 @@
-# fit-ctu-bi-pa2
-Repo for my old semestral project from BI-PA2 course at FIT CTU
+# Backup program 
+My old (2015) semestral project from BI-PA2 course at FIT CTU
+
+
